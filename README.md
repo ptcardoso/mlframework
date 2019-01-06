@@ -8,3 +8,6 @@ Supports:
   * Dense Layers
   * Convolutional Layers
  
+## Example Usage
+
+Check [main.py](https://github.com/ptcardoso/mlframework/blob/master/main.py) for an example
